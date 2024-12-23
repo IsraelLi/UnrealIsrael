@@ -1,0 +1,41 @@
+# Ignore binary files and build directories
+Binaries/
+Build/
+Intermediate/
+Saved/
+DerivedDataCache/
+
+# Ignore user-specific and temporary files
+*.tmp
+*.log
+*.obj
+*.plist
+*.userprefs
+*.suo
+*.user
+*.useros
+*.opensdf
+*.sdf
+*.VC.db
+*.pdb
+
+# Ignore Visual Studio code files
+.vscode/
+.vs/
+*.VC.db
+*.VC.opendb
+
+# Ignore Mac-specific files
+.DS_Store
+
+# Ignore auto-generated content
+*.aps
+*.aps.xml
+*.class
+
+# Ignore Unreal Engine-specific files
+*.uasset
+*.umap
+
+# Ignore crash reports and logs
+CrashReportClient/
